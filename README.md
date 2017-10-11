@@ -1,7 +1,7 @@
 # Audacity-Programming-Foundations-With-Python-
 https://www.udacity.com/course/programming-foundations-with-python--ud036
 
-# 8 Lessons:
+# Lesson 2: Use Functions
 1. Course Map
 2. Take a Break (Story)
 3. Take a Break (Output)
