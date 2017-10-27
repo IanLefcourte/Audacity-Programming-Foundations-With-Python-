@@ -1,0 +1,6 @@
+-- Important Concept:
+-- What do you think will happen if:
+-- We try to rename a file that does not exist (or)
+-- We try to rename a file to a name that already exists in a folder
+
+-- Program will throw an error, this error is called an exception!
